@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/usr/local/Cellar/android-sdk/24.4.1_1/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-51eb24e91ddbee4e2b0a209158e2ad356590715c.jar" />
+    </item>
+    <item
+        jar="/Users/frankgray/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-ad98f2fc1cd90521edeef9cafe1660000896a340.jar" />
+    </item>
+    <item
+        jar="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.21.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ed5dc2d162c6a24aeaeb765bca63e2ee5171f8e">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-61bab676b69f27fec88bf6abca36c4d4e4e9d92e.jar" />
+    </item>
+    <item
+        jar="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/classes-94e9632372117a2c9e0c10462d335b5e87326160.jar" />
+    </item>
+    <item
+        jar="/Users/frankgray/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-e199adfe3a33989adb4016d19177e53d777cda8c.jar" />
+    </item>
+    <item
+        jar="/Users/frankgray/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-da2bffaa2065017abb62d8ea49f7b46844120e6b.jar" />
+    </item>
+    <item
+        jar="/Users/frankgray/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-a7c694f9208750530918ed481f44f3f506026b3d.jar" />
+    </item>
+    <item
+        jar="/Users/frankgray/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-9337965706a069ce8b6c1e6a2053fdbcedbc423f.jar" />
+    </item>
+    <item
+        jar="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/classes-811b2bf9cbc902aebc6cc2289bad768ea125b6a3.jar" />
+    </item>
+    <item
+        jar="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/classes-d5561d860d3b52004ea77676e45d89ba93a97e30.jar" />
+    </item>
+    <item
+        jar="/Users/frankgray/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-461f663185b6fd989fd0a216dce6840e17b906d6.jar" />
+    </item>
+    <item
+        jar="/Users/frankgray/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-7f78c56054b284adc97ea3ac0e042dfa82152ac2.jar" />
+    </item>
+    <item
+        jar="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/classes-963e76b41cb75afc03e8733d626ad57a8b16826c.jar" />
+    </item>
+    <item
+        jar="/Users/frankgray/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-344e2a904b70c27d85b33174e07e9b858abb9752.jar" />
+    </item>
+    <item
+        jar="/Users/frankgray/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-6345a169a7de98136b9a279c1e5059b431581f3e.jar" />
+    </item>
+    <item
+        jar="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/classes-702fcaa3c9e1addb328d34194ebc5f3f22398dd6.jar" />
+    </item>
+    <item
+        jar="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/classes-f6be7df9b8a8dbf1bc25e214422e83a5cf9cef6d.jar" />
+    </item>
+    <item
+        jar="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-ee71b9144980bd616fbea4153349963cf95dd98a.jar" />
+    </item>
+    <item
+        jar="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.21.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="771892705d7958ec5a294a103a0e52e7f8d0bdc0">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/classes-03c5d563b523f665cde376a23941e927c1940f02.jar" />
+    </item>
+    <item
+        jar="/Users/frankgray/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-b2de8b6e3ea26304dc23f9515f5b7c41abf37915.jar" />
+    </item>
+    <item
+        jar="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/classes-9150ced348adc6a4a12a9306b8e82831ecb90f72.jar" />
+    </item>
+    <item
+        jar="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/SeekWillFind/Code/Android/React Native/Cuckoo.0.2/android/app/build/intermediates/pre-dexed/debug/classes-9ce6facaa32da2410b65eb50b8a4ead9dcc7eff0.jar" />
+    </item>
+
+</items>
